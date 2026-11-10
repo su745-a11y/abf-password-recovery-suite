@@ -1,0 +1,7 @@
+.DS_Store
+.pnpm-store/
+build/
+npm-debug.log*
+.env
+.env.local
+*.log
